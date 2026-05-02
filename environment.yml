@@ -1,0 +1,14 @@
+name: hw7_streamflow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - requests
+  - jupyter
+  - ipykernel
+  - pip
